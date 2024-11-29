@@ -24,27 +24,27 @@ author:
   avatar           : "profile.png"
   name             : "Shrikar Madhu"
   pronouns         : # example: "she/her"  
-  bio              : "AI researcher & entrepreneur interested to build deep tech products of high impact in safety critical end use applications like autonomous systems & biomedical imaging"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI researcher & entrepreneur focused on building high-impact deep tech products for safety-critical applications in autonomous systems and biomedical imaging"
+  location         : "Bangalore, India"
+  employer         : "AI&Robotics Group, IISc Bangalore"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shrikarm@iisc.ac.in" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Tyh2facAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1343-6220"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Shrikar-Madhu"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Shrikar17"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shrikar-madhu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "shrikarhaha"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
